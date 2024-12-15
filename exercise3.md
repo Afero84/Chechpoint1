@@ -1,15 +1,18 @@
 * Reponse 1
   
-  * 
+  * cat /etc/passwd | cut -d: -f1
 * Reponse 2
 
   * chmod 744 myfile
 
 * Reponse 3
 
- 
+  * En ajoutant une ligne "*.pdf" sur le fichier .gitignore, qui permet d'indiquer à Git de ne pas les suivre. 
     
 * Reponse 4
+
+  * Une fois sur main avec cet branche mis à jour: "git merge test_valide"
+  
 * Reponse 5
 
    * echo 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :'
@@ -18,6 +21,8 @@
   * echo '- "Même des tildes ~ ?"'
   * echo '- "Evidemment !"'
 * Reponse 6
+
+  * fg %gedit
   
 * Reponse 7
 
